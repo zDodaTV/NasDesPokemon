@@ -706,19 +706,19 @@ TextureImporter:
     second: General_233
   - first:
       213: 21300468
-    second: Water1
+    second: General_234
   - first:
       213: 21300470
-    second: Water2
+    second: General_235
   - first:
       213: 21300472
-    second: Water_1
+    second: General_236
   - first:
       213: 21300474
-    second: Water_2
+    second: General_237
   - first:
       213: 21300476
-    second: Water_3
+    second: General_238
   - first:
       213: 21300478
     second: General_239
@@ -727,22 +727,22 @@ TextureImporter:
     second: General_240
   - first:
       213: 21300482
-    second: SandOyster
+    second: General_241
   - first:
       213: 21300484
     second: General_242
   - first:
       213: 21300486
-    second: RedUmbrella_1
+    second: General_243
   - first:
       213: 21300488
-    second: RedUmbrella_2
+    second: General_244
   - first:
       213: 21300490
-    second: BlueUmbrella_1
+    second: General_245
   - first:
       213: 21300492
-    second: BlueUmbrella_2
+    second: General_246
   - first:
       213: 21300494
     second: General_247
@@ -853,19 +853,19 @@ TextureImporter:
     second: General_282
   - first:
       213: 21300566
-    second: Water3
+    second: General_283
   - first:
       213: 21300568
-    second: Water4
+    second: General_284
   - first:
       213: 21300570
-    second: Water_4
+    second: General_285
   - first:
       213: 21300572
-    second: Water_5
+    second: General_286
   - first:
       213: 21300574
-    second: Water_6
+    second: General_287
   - first:
       213: 21300576
     second: General_288
@@ -874,22 +874,22 @@ TextureImporter:
     second: General_289
   - first:
       213: 21300580
-    second: SandPlant
+    second: General_290
   - first:
       213: 21300582
     second: General_291
   - first:
       213: 21300584
-    second: RedUmbrella_3
+    second: General_292
   - first:
       213: 21300586
-    second: RedUmbrella_4
+    second: General_293
   - first:
       213: 21300588
-    second: BlueUmbrella_3
+    second: General_294
   - first:
       213: 21300590
-    second: BlueUmbrella_4
+    second: General_295
   - first:
       213: 21300592
     second: General_296
@@ -1000,25 +1000,25 @@ TextureImporter:
     second: General_331
   - first:
       213: 21300664
-    second: Water5
+    second: General_332
   - first:
       213: 21300666
-    second: Water6
+    second: General_333
   - first:
       213: 21300668
-    second: Water_7
+    second: General_334
   - first:
       213: 21300670
-    second: Water_8
+    second: General_335
   - first:
       213: 21300672
-    second: Water_9
+    second: General_336
   - first:
       213: 21300674
-    second: RedBeachTowel_2
+    second: General_337
   - first:
       213: 21300676
-    second: BlueBeachTowel_2
+    second: General_338
   - first:
       213: 21300678
     second: General_339
@@ -1027,16 +1027,16 @@ TextureImporter:
     second: General_340
   - first:
       213: 21300682
-    second: RedUmbrella_5
+    second: General_341
   - first:
       213: 21300684
-    second: RedUmbrella_6
+    second: General_342
   - first:
       213: 21300686
-    second: BlueUmbrella_5
+    second: General_343
   - first:
       213: 21300688
-    second: BlueUmbrella_6
+    second: General_344
   - first:
       213: 21300690
     second: General_345
@@ -1144,19 +1144,19 @@ TextureImporter:
     second: General_379
   - first:
       213: 21300760
-    second: WaterOyster
+    second: General_380
   - first:
       213: 21300762
     second: General_381
   - first:
       213: 21300764
-    second: WaterRock
+    second: General_382
   - first:
       213: 21300766
-    second: RedBeachTowel_1
+    second: General_383
   - first:
       213: 21300768
-    second: BlueBeachTowel_1
+    second: General_384
   - first:
       213: 21300770
     second: General_385
@@ -1258,10 +1258,10 @@ TextureImporter:
     second: General_417
   - first:
       213: 21300836
-    second: PalmTree_1
+    second: General_418
   - first:
       213: 21300838
-    second: PalmTree_2
+    second: General_419
   - first:
       213: 21300840
     second: General_420
@@ -1282,10 +1282,10 @@ TextureImporter:
     second: General_425
   - first:
       213: 21300852
-    second: Cactus_1
+    second: General_426
   - first:
       213: 21300854
-    second: Cactus_2
+    second: General_427
   - first:
       213: 21300856
     second: General_428
@@ -1387,10 +1387,10 @@ TextureImporter:
     second: General_460
   - first:
       213: 21300922
-    second: PalmTree_3
+    second: General_461
   - first:
       213: 21300924
-    second: PalmTree_4
+    second: General_462
   - first:
       213: 21300926
     second: General_463
@@ -1411,10 +1411,10 @@ TextureImporter:
     second: General_468
   - first:
       213: 21300938
-    second: Cactus_3
+    second: General_469
   - first:
       213: 21300940
-    second: Cactus_4
+    second: General_470
   - first:
       213: 21300942
     second: General_471
@@ -1513,10 +1513,10 @@ TextureImporter:
     second: General_502
   - first:
       213: 21301006
-    second: PalmTree_5
+    second: General_503
   - first:
       213: 21301008
-    second: PalmTree_6
+    second: General_504
   - first:
       213: 21301010
     second: General_505
@@ -1537,10 +1537,10 @@ TextureImporter:
     second: General_510
   - first:
       213: 21301022
-    second: Cactus_5
+    second: General_511
   - first:
       213: 21301024
-    second: Cactus_6
+    second: General_512
   - first:
       213: 21301026
     second: General_513
@@ -1801,10 +1801,10 @@ TextureImporter:
     second: General_598
   - first:
       213: 21301198
-    second: RockInWater_1
+    second: General_599
   - first:
       213: 21301200
-    second: RockInWater_2
+    second: General_600
   - first:
       213: 21301202
     second: General_601
@@ -1885,10 +1885,10 @@ TextureImporter:
     second: General_626
   - first:
       213: 21301254
-    second: RockInWater_3
+    second: General_627
   - first:
       213: 21301256
-    second: RockInWater_4
+    second: General_628
   - first:
       213: 21301258
     second: General_629
@@ -5171,9 +5171,6 @@ TextureImporter:
   - first:
       213: 4228925679832706004
     second: Barn_25
-  - first:
-      213: -8049741531878901084
-    second: General_10
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -10160,7 +10157,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water1
+      name: General_234
       rect:
         serializedVersion: 2
         x: 432
@@ -10181,7 +10178,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water2
+      name: General_235
       rect:
         serializedVersion: 2
         x: 448
@@ -10202,7 +10199,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_1
+      name: General_236
       rect:
         serializedVersion: 2
         x: 464
@@ -10223,7 +10220,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_2
+      name: General_237
       rect:
         serializedVersion: 2
         x: 480
@@ -10244,7 +10241,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_3
+      name: General_238
       rect:
         serializedVersion: 2
         x: 496
@@ -10307,7 +10304,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SandOyster
+      name: General_241
       rect:
         serializedVersion: 2
         x: 544
@@ -10349,7 +10346,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedUmbrella_1
+      name: General_243
       rect:
         serializedVersion: 2
         x: 576
@@ -10370,7 +10367,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedUmbrella_2
+      name: General_244
       rect:
         serializedVersion: 2
         x: 592
@@ -10391,7 +10388,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueUmbrella_1
+      name: General_245
       rect:
         serializedVersion: 2
         x: 608
@@ -10412,7 +10409,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueUmbrella_2
+      name: General_246
       rect:
         serializedVersion: 2
         x: 624
@@ -11189,7 +11186,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water3
+      name: General_283
       rect:
         serializedVersion: 2
         x: 432
@@ -11210,11 +11207,11 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water4
+      name: General_284
       rect:
         serializedVersion: 2
         x: 448
-        y: 751
+        y: 752
         width: 16
         height: 16
       alignment: 0
@@ -11231,7 +11228,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_4
+      name: General_285
       rect:
         serializedVersion: 2
         x: 464
@@ -11252,7 +11249,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_5
+      name: General_286
       rect:
         serializedVersion: 2
         x: 480
@@ -11273,7 +11270,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_6
+      name: General_287
       rect:
         serializedVersion: 2
         x: 496
@@ -11336,7 +11333,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SandPlant
+      name: General_290
       rect:
         serializedVersion: 2
         x: 544
@@ -11378,7 +11375,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedUmbrella_3
+      name: General_292
       rect:
         serializedVersion: 2
         x: 576
@@ -11399,7 +11396,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedUmbrella_4
+      name: General_293
       rect:
         serializedVersion: 2
         x: 592
@@ -11420,7 +11417,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueUmbrella_3
+      name: General_294
       rect:
         serializedVersion: 2
         x: 608
@@ -11441,7 +11438,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueUmbrella_4
+      name: General_295
       rect:
         serializedVersion: 2
         x: 624
@@ -12218,7 +12215,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water5
+      name: General_332
       rect:
         serializedVersion: 2
         x: 432
@@ -12239,7 +12236,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water6
+      name: General_333
       rect:
         serializedVersion: 2
         x: 448
@@ -12260,7 +12257,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_7
+      name: General_334
       rect:
         serializedVersion: 2
         x: 464
@@ -12281,7 +12278,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_8
+      name: General_335
       rect:
         serializedVersion: 2
         x: 480
@@ -12302,7 +12299,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Water_9
+      name: General_336
       rect:
         serializedVersion: 2
         x: 496
@@ -12323,10 +12320,10 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedBeachTowel_2
+      name: General_337
       rect:
         serializedVersion: 2
-        x: 511
+        x: 512
         y: 736
         width: 16
         height: 16
@@ -12344,7 +12341,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueBeachTowel_2
+      name: General_338
       rect:
         serializedVersion: 2
         x: 528
@@ -12407,7 +12404,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedUmbrella_5
+      name: General_341
       rect:
         serializedVersion: 2
         x: 576
@@ -12428,7 +12425,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedUmbrella_6
+      name: General_342
       rect:
         serializedVersion: 2
         x: 592
@@ -12449,7 +12446,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueUmbrella_5
+      name: General_343
       rect:
         serializedVersion: 2
         x: 608
@@ -12470,7 +12467,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueUmbrella_6
+      name: General_344
       rect:
         serializedVersion: 2
         x: 624
@@ -13226,7 +13223,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WaterOyster
+      name: General_380
       rect:
         serializedVersion: 2
         x: 464
@@ -13268,7 +13265,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WaterRock
+      name: General_382
       rect:
         serializedVersion: 2
         x: 496
@@ -13289,7 +13286,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RedBeachTowel_1
+      name: General_383
       rect:
         serializedVersion: 2
         x: 512
@@ -13310,7 +13307,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: BlueBeachTowel_1
+      name: General_384
       rect:
         serializedVersion: 2
         x: 528
@@ -14024,7 +14021,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PalmTree_1
+      name: General_418
       rect:
         serializedVersion: 2
         x: 448
@@ -14045,7 +14042,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PalmTree_2
+      name: General_419
       rect:
         serializedVersion: 2
         x: 464
@@ -14192,7 +14189,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cactus_1
+      name: General_426
       rect:
         serializedVersion: 2
         x: 576
@@ -14213,7 +14210,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cactus_2
+      name: General_427
       rect:
         serializedVersion: 2
         x: 592
@@ -14927,7 +14924,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PalmTree_3
+      name: General_461
       rect:
         serializedVersion: 2
         x: 448
@@ -14948,7 +14945,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PalmTree_4
+      name: General_462
       rect:
         serializedVersion: 2
         x: 464
@@ -15095,7 +15092,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cactus_3
+      name: General_469
       rect:
         serializedVersion: 2
         x: 576
@@ -15116,7 +15113,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cactus_4
+      name: General_470
       rect:
         serializedVersion: 2
         x: 592
@@ -15809,7 +15806,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PalmTree_5
+      name: General_503
       rect:
         serializedVersion: 2
         x: 448
@@ -15830,7 +15827,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PalmTree_6
+      name: General_504
       rect:
         serializedVersion: 2
         x: 464
@@ -15977,7 +15974,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cactus_5
+      name: General_511
       rect:
         serializedVersion: 2
         x: 576
@@ -15998,7 +15995,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Cactus_6
+      name: General_512
       rect:
         serializedVersion: 2
         x: 592
@@ -17825,7 +17822,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RockInWater_1
+      name: General_599
       rect:
         serializedVersion: 2
         x: 384
@@ -17846,7 +17843,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RockInWater_2
+      name: General_600
       rect:
         serializedVersion: 2
         x: 400
@@ -18413,7 +18410,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RockInWater_3
+      name: General_627
       rect:
         serializedVersion: 2
         x: 384
@@ -18434,7 +18431,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: RockInWater_4
+      name: General_628
       rect:
         serializedVersion: 2
         x: 400
@@ -41416,7 +41413,7 @@ TextureImporter:
         width: 24
         height: 7
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -41424,27 +41421,6 @@ TextureImporter:
       bones: []
       spriteID: 9b03f126b78008c4bb4167f87fe502e8
       internalID: 4228925679832706004
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: General_10
-      rect:
-        serializedVersion: 2
-        x: 660
-        y: 607
-        width: 105
-        height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b5a1585bad506424fb041fe137df7f77
-      internalID: -8049741531878901084
       vertices: []
       indices: 
       edges: []
